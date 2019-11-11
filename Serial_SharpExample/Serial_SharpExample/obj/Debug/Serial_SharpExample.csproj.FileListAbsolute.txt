@@ -1,0 +1,10 @@
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\bin\Debug\Serial_SharpExample.exe.config
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\bin\Debug\Serial_SharpExample.exe
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\bin\Debug\Serial_SharpExample.pdb
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.csprojAssemblyReference.cache
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.Properties.Resources.resources
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.csproj.GenerateResource.cache
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.csproj.CoreCompileInputs.cache
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.exe
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.pdb
+D:\KIRO_WORK\프로젝트\DG_Project\Serial\Serial_SharpExample\Serial_SharpExample\obj\Debug\Serial_SharpExample.MainForm.resources
