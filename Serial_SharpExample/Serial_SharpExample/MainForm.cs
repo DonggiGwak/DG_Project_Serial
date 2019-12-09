@@ -38,7 +38,7 @@ namespace Serial_SharpExample
 
         private void btn_serialOpen_Click(object sender, EventArgs e)
         {
-            if(SPort.OpenPorts(serialPort, Convert.ToString(com_portNum.SelectedItem), 9600))
+            if(SPort.OpenPorts(serialPort, Convert.ToString(com_portNum.SelectedItem), 2000000))
             {
                 btn_serialOpen.Text = "닫기";
             }
