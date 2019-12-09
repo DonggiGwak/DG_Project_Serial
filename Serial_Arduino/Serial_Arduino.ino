@@ -2,7 +2,9 @@
 
 /*
  * DG Serial Example Source Code
- * by DG Gwak
+ * by DG Gwak.
+ * Version 2.0
+ * 2019.12.09
  */
 
 DG_Serial dg_serial;
